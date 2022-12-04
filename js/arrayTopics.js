@@ -12,3 +12,6 @@ evenNumber(arrayOne);
 // Alternate way
 let resultArray=arrayOne.filter(val=>val% 2 == 0)
 console.log(resultArray) // output:[2,4]
+
+
+
