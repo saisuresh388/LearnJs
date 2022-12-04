@@ -1,0 +1,17 @@
+body{
+    background-color: #ffffff;
+}
+.content-wrapper{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto ;
+}
+.blueColor{
+    background:blue;
+}
+.redColor{
+    background:red;
+}
+.yellowColor{
+    background:yellow;
+}
